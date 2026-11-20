@@ -233,15 +233,17 @@ Windy и RainViewer	Визуализацию осадков, временную 
 
 Для продукта это способ повысить полезность маршрутизации и дать пользователю дополнительные поводы возвращаться в Карты. Эффект оцениваем по целевым действиям и качеству выбора. Число просмотров погодных подсказок само по себе пользы не доказывает.
 
-Источники и материалы для проверки
-Справка Яндекс.Карт «Погода». Описание доступности функции в версии 25.5+, прогноза на сутки и карты осадков на два часа.
-Материал Яндекса о запуске погодной функции в Картах. Описание исходной продуктовой задачи и сценария прогноза в точке назначения.
-Google Weather API: Overview. Возможности получения погодных данных для точек маршрута.
-Google Weather API: Weather Alerts. Принципы работы с предупреждениями об опасных погодных явлениях.
-EnRoute App: Safe Route (Behance).
-«雨に濡れにくいルート検索、知ってる？».
-AI Based Hyper Local Weather Intelligence (Buluttan).
-Road conditions & weather on your route - Weather on the Way (weatherontheway.app).
-«[카카오맵 APP] 완전히 새로워진 검색을 만나보세요!» (kakaomap.tistory.com).
-New Precipitation and Commuter Alerts Help Weatherbug Users Navigate Changes During the Fall and Winter Seasons (WeatherBug, weatherbug.com).
-Перед принятием продуктового решения нужно проверить актуальность сведений о доступности функций Яндекс.Карт и возможностях погодных программных интерфейсов (API).
+### Источники и материалы для проверки
+
+- **Справка Яндекс.Карт «Погода»** — описание доступности функции в версии 25.5+, прогноза на сутки и карты осадков на два часа.
+- **Материал Яндекса о запуске погодной функции в Картах** — описание исходной продуктовой задачи и сценария прогноза в точке назначения.
+- **Google Weather API: Overview** — возможности получения погодных данных для точек маршрута.
+- **Google Weather API: Weather Alerts** — принципы работы с предупреждениями об опасных погодных явлениях.
+- **EnRoute App: Safe Route** (Behance).
+- **«雨に濡れにくいルート検索、知ってる？»** (Японский опыт: поиск маршрута, минимизирующего попадание под дождь).
+- **AI Based Hyper Local Weather Intelligence** (Buluttan).
+- **Road conditions & weather on your route** — Weather on the Way (weatherontheway.app).
+- **«[카카오맵 APP] 완전히 새로워진 검색을 만나보세요!»** (kakaomap.tistory.com).
+- **New Precipitation and Commuter Alerts Help Weatherbug Users Navigate Changes During the Fall and Winter Seasons** (WeatherBug, weatherbug.com).
+
+> **Важно:** Перед принятием продуктового решения нужно проверить актуальность сведений о доступности функций Яндекс.Карт и возможностях погодных программных интерфейсов (API).
